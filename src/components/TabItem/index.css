@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.individualcontainer {
+  padding: 10px;
+  border-bottom: 2px solid #7b8794;
+  cursor: pointer;
+}
+.button {
+  background: transparent;
+  border: none;
+  outline: none;
+  color: #7b8794;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.addborder {
+  border-bottom: 2px solid #2563eb;
+}
+.addcolor {
+  color: #2563eb;
+}

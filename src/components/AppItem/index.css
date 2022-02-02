@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.individualappcontainer {
+  background: linear-gradient(to top, #fff1eb, #ace0f9);
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.individualappcontainer:hover {
+  transition: all 0.5s ease-in-out;
+  transform: translateY(-10px);
+  box-shadow: 0 1px 29px 4px rgb(0 0 0 / 75%);
+}
+
+.appimage {
+  width: 100px;
+  height: 80px;
+}
+
+.imagename {
+  font-size: 14px;
+  font-weight: 600;
+  color: #1e293b;
+}
